@@ -5,7 +5,13 @@
 
 ## 
 
-Welcome to EAGLYMC 1.20! This project is an exciting adaptation of Eaglercraft, and it's designed to enhance your gaming experience. It has been made available to the community by [@daniezonmc](github.com/daniezonmc), while originally being developed by Chocofush from the original 1.8.8 Eaglercraft by lax1dude. We appreciate both of their hard work and dedication. This project wouldn't be here without their dedication.
+Welcome to EAGLYMC 1.20! This project is an exciting adaptation of Eaglercraft, and it's designed to enhance your gaming experience. It has been made available to the community by [@daniezonmc](github.com/daniezonmc).
+
+## Credits
+
+**Chocofush** For originally making the 1.20 file that this website runs
+
+**lax1dude** For making al of eaglercraft, none of these minecraft links would be here without him
 
 ## Important Notice
 
