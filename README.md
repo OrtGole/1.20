@@ -15,7 +15,7 @@ Welcome to EAGLYMC 1.20! This project is an exciting adaptation of Eaglercraft, 
 
 ## Important Notice
 
-**Please be aware that this version of Eaglercraft is designed for shared worlds only and does not support connecting to external servers.** Users are encouraged to take advantage of the shared worlds feature to enjoy a collaborative gaming experience. Multiplayer functionality may be impacted due to the use of relays, which are not managed by me. We cannot guarantee their availability, and as such, any disruptions in relay services may affect your gameplay.
+**Please be aware that this version of Eaglercraft is designed for shared worlds only and does not support connecting to external servers.** Users are encouraged to take advantage of the shared worlds feature to enjoy a collaborative gaming experience. Multiplayer functionality may be impacted due to the use of relays, which are not managed by me. We cannot guarantee their availability, and as such, any disruptions in relay services may affect your gameplay. If you would like to play on a server (ex. ArchMC) you can head to my links for [Resent Client](https://daniezonmc.github.io/1.8), and [AstraClient](https://daniezonmc.github.io/astraclient) which are both made by different people but I have put them on links for internet availibility and ease for people.
 
 ## How To Play
 1. Enter https://daniezonmc.github.io/1.20 in your browser bar or click the link
