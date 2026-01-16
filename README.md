@@ -11,7 +11,7 @@ Welcome to EAGLYMC 1.20! This project is an exciting adaptation of Eaglercraft, 
 
 **Chocofush** For originally making the 1.20 file that this website runs
 
-**lax1dude** For making al of eaglercraft, none of these minecraft links would be here without him
+**lax1dude** For making all of eaglercraft, none of these minecraft links on our chrome browsers would be here without him
 
 ## Important Notice
 
