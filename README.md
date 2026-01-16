@@ -5,7 +5,7 @@
 
 ## 
 
-Welcome to EAGLYMC 1.20! This project is an exciting adaptation of Eaglercraft, and it's designed to enhance your gaming experience. It has been made available to the community by [@daniezonmc](https://github.com/daniezonmc).
+Welcome to EAGLYMC 1.20! This project is an exciting adaptation of Eaglercraft, and it's designed to enhance your gaming experience. It has been made available to the community by [@daniezonmc](https://github.com/daniezonmc) and was originally made by the people in the [Credits](https://github.com/DaniezOnMC/1.20?tab=readme-ov-file#credits) Section.
 
 ## Credits
 
