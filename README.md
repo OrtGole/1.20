@@ -19,7 +19,7 @@ Welcome to EAGLYMC 1.20! This project is an exciting adaptation of Eaglercraft, 
 
 ## How To Play
 1. Enter https://daniezonmc.github.io/1.20 in your browser bar or click the link
-2. Follow instructions if you don't have a certian setting on
+2. Follow instructions if you don't have a certain setting on
 3. Have Fun!
 
 
